@@ -88,7 +88,7 @@ class TaTeTi():
                 self.valid.remove(val)
                 return val
             else:
-                print("error no valido")
+                print("error posicion no valida")
 
 
 if __name__ == '__main__':
